@@ -51,9 +51,7 @@ Fase persiapan data terdiri dari langkah-langkah berikut ini :
    
  4.	*Modelling Phase*
 
-    Pada Modelling Phase ini menggunakan Pseudocode algoritma Apriori terdapat pada gambar di bawah ini :
-    
-    Sistem dimulai dari input support dan confidence. Input digunakan untuk pemangkasan dalam proses mendapatkan frequent itemset. Setelah input dilakukan, proses selanjutnya adalah pembuatan frequent 1-itemset. Frequent 1-itemset menentukan pembangkitan frequent k-itemset. Pembangkitan frequent k-itemset berakhir bila sudah tidak ada lagi itemset yang dihasilkan. Bila Frequent Itemset sudah didapat proses selanjutnya adalah pembangkitan aturan asosiasi atau Association Rules. Pembangkitan kandidat Association Rules akan berakhir bila tidak ada lagi kandidat yang dihasilkan.
+    Pada Modelling Phase ini menggunakan Pseudocode algoritma Apriori. Sistem dimulai dari input support dan confidence. Input digunakan untuk pemangkasan dalam proses mendapatkan frequent itemset. Setelah input dilakukan, proses selanjutnya adalah pembuatan frequent 1-itemset. Frequent 1-itemset menentukan pembangkitan frequent k-itemset. Pembangkitan frequent k-itemset berakhir bila sudah tidak ada lagi itemset yang dihasilkan. Bila Frequent Itemset sudah didapat proses selanjutnya adalah pembangkitan aturan asosiasi atau Association Rules. Pembangkitan kandidat Association Rules akan berakhir bila tidak ada lagi kandidat yang dihasilkan.
     
 5. *Evaluation*
 
@@ -67,6 +65,8 @@ Fase persiapan data terdiri dari langkah-langkah berikut ini :
    |[Sari Roti Sandwich Keju]=>[Sari Roti Sandwich Coklat]|0.00506|0.29487179|
    
 6.	*Deployment*
+
+   Dalam tahapan penyebaran data mining dapat dilakukan pada semua jualan yang ada di Kampus XY. Pada penelitian ini tahapan deployment atau tahap penyebaran tidak dilakukan.
 
 **Kesimpulan**
 
