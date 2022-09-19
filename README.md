@@ -25,3 +25,8 @@ Berikut adalah contoh penerapan Framework CRISP-DM terhadap perilaku pelanggan m
     
     |Bulan|Jumlah|NoTransaksi Awal|NoTransaksi Akhir|
     |-----|------|----------------|-----------------|
+    |Januari|4692|1|4692|
+    |-----|------|----------------|-----------------|
+    |Februari|12886|4693|17578|
+    |-----|------|----------------|-----------------|
+    |TOTAL|17578|~|~|
