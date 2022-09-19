@@ -24,7 +24,7 @@ Berikut adalah contoh penerapan Framework CRISP-DM terhadap perilaku pelanggan m
     Terdapat total 4692 data, sesuai dengan transaksi yang terjadi pada Januari 2014. Data transaksi yang diambil merupakan Data Penjualan mini market di kampus XY. Rincian besar data transaksi penjualan per bulan yang terjadi dari mini market tersebut bisa dilihat di tabel dibawah ini.
     
    |Bulan|Jumlah|NoTransaksi Awal|NoTransaksi Akhir|
-   |____|____|____|__|
+   |____|____|____||
    |Januari|4692|1|4692|
    |Februari|12886|4693|17578|
    |TOTAL|17578|~|~|
